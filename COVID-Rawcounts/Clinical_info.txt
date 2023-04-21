@@ -1,4 +1,4 @@
-ID	status	classification
+SAMPLEID	status	classification
 9088	covid	severe
 9097	covid	mild
 9098	covid	mild
